@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YUVI-09
 - 👀 I’m interested in Web Development and Product Management
 - 🌱 I’m currently learning React,Figma,Node etc
-- 💞️ I’m looking to collaborate on ;)
+- 💞️ I’m looking to collaborate on ... ;)
 - 📫 Reach me on soni.19@iitj.ac.in
 
 <!---
